@@ -18,5 +18,6 @@
 如果你对 DeskBox 感兴趣，或使用中遇到任何问题，也可以关注我的微信公众号进行反馈交流。
 
 扫码下方二维码关注，或微信搜索 **大雨实验室** 。
+
 <img width="430" height="430" alt="7eb9a0f8be42e2c956b74526e09f8951" src="https://github.com/user-attachments/assets/9e4ef8b0-7bd2-46ae-8ea3-0689fffda374" />
 
