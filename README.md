@@ -3,7 +3,7 @@
 目前主要在做 **DeskBox**，一个基于 WinUI 的 Windows 11 桌面整理工具。它希望在不替换 Windows 桌面的前提下，帮用户更好地整理桌面上的文件、全局搜索、记录待办、随手记内容和控制音乐等。
 
 ## 我喜欢的方向
-- Windows 原生体验、轻量化设计的桌面效率工具、产品细节和交互体验、Vibe Coding
+Windows 原生体验、轻量化设计的桌面效率工具、产品细节和交互体验、Vibe Coding
 
 ## 正在做的项目
 ### DeskBox
@@ -16,7 +16,7 @@
 坦白来讲，我不懂任何代码，纯粹使用 AI 完成开发。
 如果你对 DeskBox 感兴趣，或使用中遇到任何问题，也可以关注我的微信公众号进行反馈交流。
 
-扫码下方二维码关注，或微信搜索 **大雨实验室** 。
+微信扫码下方二维码关注，或微信搜索 **大雨实验室** 。
 
 <p align= "center">
   <img src="https://github.com/user-attachments/assets/9e4ef8b0-7bd2-46ae-8ea3-0689fffda374" width="200">
