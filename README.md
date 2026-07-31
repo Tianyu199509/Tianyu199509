@@ -1,6 +1,7 @@
 # 你好，我是 朱天雨
 产品经理，在尝试用 AI 做一些好玩的东西。
 目前主要在做 **DeskBox**，一个基于 WinUI 的 Windows 11 桌面整理工具。它希望在不替换 Windows 桌面的前提下，帮用户更好地整理桌面上的文件、全局搜索、记录待办、随手记内容和控制音乐等。
+https://github.com/Tianyu199509/DeskBox
 
 ## 我喜欢的方向
 Windows 原生体验、轻量化设计的桌面效率工具、产品细节和交互体验、Vibe Coding
