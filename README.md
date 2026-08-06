@@ -1,24 +1,27 @@
-# 你好，我是 朱天雨
-产品经理，在尝试用 AI 做一些好玩的东西。
-目前主要在做 **DeskBox**，一个基于 WinUI 的 Windows 11 桌面整理工具。它希望在不替换 Windows 桌面的前提下，帮用户更好地整理桌面上的文件、全局搜索、记录待办、随手记内容和控制音乐等。
-https://github.com/Tianyu199509/DeskBox
+# Hi, I’m Tianyu Zhu
 
-## 我喜欢的方向
-Windows 原生体验、轻量化设计的桌面效率工具、产品细节和交互体验、Vibe Coding
+Product designer and solo maker building native-feeling Windows tools.
 
-## 正在做的项目
-### DeskBox
-一个轻量级 Windows 原生质感的桌面整理工具。它可以帮你：
-收纳桌面文件到格子、映射已有文件夹到桌面、记录待办事项、保存随记和最近复制内容、在桌面上控制音乐、查看天气、全局搜索等...
+I’m the creator of [DeskBox](https://github.com/Tianyu199509/DeskBox), a free and open-source Windows desktop organizer built with C#, WinUI 3, .NET 10, and Windows App SDK. It organizes desktop files through real-folder-backed widgets without replacing Explorer, and supports both x64 and ARM64 Windows PCs.
 
-我希望它尽量保持 Windows 原生质感，少引入不必要的复杂东西，做得克制、稳定、好用。
+## What I work on
 
-## 其他
-坦白来讲，我不懂任何代码，纯粹使用 AI 完成开发。
-如果你对 DeskBox 感兴趣，或使用中遇到任何问题，也可以关注我的微信公众号进行反馈交流。
+- Native-feeling Windows utilities
+- Product and interaction design
+- WinUI 3 and .NET desktop applications
+- Local-first software and ordinary-file workflows
+- AI-assisted product development with deliberate testing and release engineering
 
-微信扫码下方二维码关注，或微信搜索 **大雨实验室** 。
+## DeskBox
 
-<p align= "center">
-  <img src="https://github.com/user-attachments/assets/9e4ef8b0-7bd2-46ae-8ea3-0689fffda374" width="200">
-</p>
+DeskBox started with a practical problem: my desktop was getting messy, and the organizers I tried either felt heavy or changed familiar Windows behavior.
+
+The project now includes automated tests, five interface languages, direct installers, and a Microsoft Store edition. Its source and release history are public so people can inspect both the product and the work behind it.
+
+- Website: [deskbox.fun](https://deskbox.fun/en/)
+- Download: [DeskBox releases](https://github.com/Tianyu199509/DeskBox/releases)
+- Press kit: [deskbox.fun/en/press](https://deskbox.fun/en/press/)
+
+I come from product work rather than traditional software engineering. AI assists with implementation; I remain responsible for product decisions, interaction design, testing, release quality, and technical tradeoffs.
+
+中文交流也欢迎。DeskBox 的中文资料可以在[官网](https://deskbox.fun/)查看。
