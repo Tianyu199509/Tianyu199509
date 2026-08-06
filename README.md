@@ -1,5 +1,7 @@
 # Hi, I’m Tianyu Zhu
 
+<img src="./assets/tianyu-zhu-avatar.png" alt="Illustrated portrait of Tianyu Zhu" width="128" />
+
 Product designer and solo maker building native-feeling Windows tools.
 
 I’m the creator of [DeskBox](https://github.com/Tianyu199509/DeskBox), a free and open-source Windows desktop organizer built with C#, WinUI 3, .NET 10, and Windows App SDK. It organizes desktop files through real-folder-backed widgets without replacing Explorer, and supports both x64 and ARM64 Windows PCs.
